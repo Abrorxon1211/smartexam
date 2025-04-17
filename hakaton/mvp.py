@@ -4,7 +4,7 @@ import random
 from docx import Document
 import threading
 from time import sleep
-from PIL import Image, ImageTk  # LOGOTIP uchun
+from PIL import Image, ImageTk 
 import pygame
 import time
 import os
@@ -15,7 +15,6 @@ import scipy.io.wavfile
 
 # Fayl yo‘llari
 word_file_path = os.path.join(os.path.expanduser("~"), "Desktop", "questions.docx")
-answer_file_path = os.path.join(os.path.expanduser("~"), "Desktop", "answers.docx")  # to‘g‘ri javoblar
 
 IAM_TOKEN = "your_token"
 FOLDER_ID = "your_id"
