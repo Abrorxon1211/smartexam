@@ -1,0 +1,8 @@
+
+(1-savol) O’zbekiston davlat bayrog’ida nechta yulduz bor
+(2-savol) O’zbekistonda nechta viloyat bor
+(3-savol) O’zbekiston davlat gerbida qaysi mavjudod tasvirlangan
+(1-savol javobi) oʻzbekiston davlat bayrogʻida 12 yulduz tasvirlangan
+(2-savol javobi) oʻzbekistonda 12 viloyat bor
+(3-savol javobi) tasvirlangan
+(1-savol) O’zbekistonda nechta viloyat bor
